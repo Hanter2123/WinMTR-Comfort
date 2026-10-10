@@ -1,0 +1,9 @@
+data/
+build/
+*.pdb
+*.obj
+*.ilk
+*.wmtr
+*.tmp
+.zig-cache/
+zig-out/
